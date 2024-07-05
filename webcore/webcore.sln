@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webcore", "webcore\webcore.csproj", "{E682179C-F124-449F-B19A-D378F0B4F097}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Database", "core.database\Core.Database.csproj", "{CD72F2D0-4499-415D-BFB6-15C9506019B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E682179C-F124-449F-B19A-D378F0B4F097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E682179C-F124-449F-B19A-D378F0B4F097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E682179C-F124-449F-B19A-D378F0B4F097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E682179C-F124-449F-B19A-D378F0B4F097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD72F2D0-4499-415D-BFB6-15C9506019B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD72F2D0-4499-415D-BFB6-15C9506019B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD72F2D0-4499-415D-BFB6-15C9506019B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD72F2D0-4499-415D-BFB6-15C9506019B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {050C05A9-D3E2-436C-949A-DCC782F8C2A0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\ASP.NETWEBCORE\webcore\core.database\obj\Debug\net6.0\core.database.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NETWEBCORE\webcore\core.database\obj\Debug\net6.0\core.database.AssemblyInfoInputs.cache
+D:\ASP.NETWEBCORE\webcore\core.database\obj\Debug\net6.0\core.database.AssemblyInfo.cs
+D:\ASP.NETWEBCORE\webcore\core.database\obj\Debug\net6.0\core.database.csproj.CoreCompileInputs.cache
+D:\ASP.NETWEBCORE\webcore\core.database\bin\Debug\net6.0\core.database.deps.json
+D:\ASP.NETWEBCORE\webcore\core.database\bin\Debug\net6.0\core.database.dll
+D:\ASP.NETWEBCORE\webcore\core.database\bin\Debug\net6.0\core.database.pdb
+D:\ASP.NETWEBCORE\webcore\core.database\obj\Debug\net6.0\core.database.sourcelink.json
+D:\ASP.NETWEBCORE\webcore\core.database\obj\Debug\net6.0\core.database.dll
+D:\ASP.NETWEBCORE\webcore\core.database\obj\Debug\net6.0\refint\core.database.dll
+D:\ASP.NETWEBCORE\webcore\core.database\obj\Debug\net6.0\core.database.pdb
+D:\ASP.NETWEBCORE\webcore\core.database\obj\Debug\net6.0\ref\core.database.dll

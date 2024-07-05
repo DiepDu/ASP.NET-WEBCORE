@@ -1,0 +1,921 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webcore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\webcore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\datatables-bs4\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatables-bs4\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatables-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\datatables-bs4\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatables-bs4\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatables-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\about-5.jpg",
+      "PackagePath": "staticwebassets\\img\\about-5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\about-6.jpg",
+      "PackagePath": "staticwebassets\\img\\about-6.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\article.jpg",
+      "PackagePath": "staticwebassets\\img\\article.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\product-bg.png",
+      "PackagePath": "staticwebassets\\img\\product-bg.png"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\store-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\store-product-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\store-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\store-product-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\store-product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\store-product-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\users\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\users\\QuocNam.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\QuocNam.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\users\\_3196c2c3-239f-43ae-869b-d57dfbcff963 - Sao chép.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\_3196c2c3-239f-43ae-869b-d57dfbcff963 - Sao chép.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\users\\_e7f03bf2-a05b-4a3b-b08a-3b3fcd29527b.jpg.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\_e7f03bf2-a05b-4a3b-b08a-3b3fcd29527b.jpg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\bn-bd.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bn-bd.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\en-SG.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-SG.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\en-in.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-in.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\es-mx.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-mx.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\fil.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fil.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\gom-deva.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gom-deva.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\oc-lnc.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\oc-lnc.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\tk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tk.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\zh-mo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-mo.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\plugins\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETWEBCORE\\webcore\\webcore\\wwwroot\\plugins\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\plugins\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.webcore.props",
+      "PackagePath": "build\\webcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.webcore.props",
+      "PackagePath": "buildMultiTargeting\\webcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.webcore.props",
+      "PackagePath": "buildTransitive\\webcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.webcore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
